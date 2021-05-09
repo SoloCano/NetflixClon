@@ -1,0 +1,46 @@
+body{
+    background-color: rgba(0, 0, 0, 15);
+    background-image: url(https://www.get-licensed.co.uk/get-daily/wp-content/uploads/2019/08/apps.55787.9007199266246365.687a10a8-4c4a-4a47-8ec5-a95f70d8852d.jpg);
+    font-family: 'Helvetica'
+  }
+  
+  .logo {
+    margin-left: 20px;
+    height: 70px;
+  }
+  
+  .inicio{
+    margin-top: 15px;
+    margin-right: 20px;
+    color: white;
+    float: right;
+    padding: 5px 10px;
+    background-color: red
+  }
+  
+  h2{
+    color: white;
+    text-align: center;
+    margin-top: 12%;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 3em;
+  
+  }
+  
+  p{
+    color: white;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+  }
+  
+  .suscrito {
+  color: white;
+  background-color: red;
+  width: 30%;
+  position:relative;
+      left:35%;
+  font-size: 120%;
+  padding: 15px;
+  }
